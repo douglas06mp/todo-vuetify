@@ -1,5 +1,7 @@
 # vuetify-todo
 
+### Demo [github-page](https://douglas06mp.github.io/vue-todo-with-vuetify/)
+
 ## Project setup
 ```
 npm install
